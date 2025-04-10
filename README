@@ -1,0 +1,13 @@
+Examination Processing System
+
+Group members : 167072 Kiptum Joshua
+                165777 Cedric Michael Muchemi Kagumba
+                152253 Bryson Okoth
+
+This Java program processes examination data for students, calculates grades, and displays a report card as per Strathmore University requirements.
+
+It has the following functionalities :
+    - Handles data for at least 10 students
+    - Supports multiple subjects
+    - Calculates average grades
+    - Displays a full report card
